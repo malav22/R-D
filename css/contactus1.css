@@ -1,0 +1,70 @@
+.contact-us {
+    width: 70%;
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    border: 5px solid #265b4f;
+    margin: auto;
+    margin-top: 4em;
+}
+.contact-photo {
+    width: 60%;
+    height: 700px;
+    padding: 2em;
+
+}
+.contact-photo img {
+    height: 100%;
+    width: 100%;
+
+}
+.all-details{
+    padding: 2em;
+    width: 40%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.all-details > div {
+    font-size: 1.2em;
+   width: 100%;
+   padding: 1em;
+}
+.email h3 , .phone h3 {
+    display: inline;
+}
+
+@media screen and (max-width:750px){
+    .contact-us{
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0;
+
+    }
+    .contact-photo{
+        width: 100%;
+        height: 300px;
+    }
+    .all-details{
+        width: 100%;
+    }
+    .all-details > div {
+       font-size: 1.2em;
+       width: 80%;
+       padding: 1em;
+    }
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    background-color: #b23231;
+    color: white;
+    font-size: 40px;
+    position: sticky;
+    margin-block-end: 0;
+    margin-top: 2em;
+    
+  }

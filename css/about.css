@@ -1,0 +1,300 @@
+
+@font-face{
+    font-family: "PT_sans_boldI";
+    src: url(../fonts/PT_Sans/PTSans-BoldItalic.ttf);
+}
+body {
+    font-family:  Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+
+  h1,h2,h3 {
+    font-family: PT_sans_boldI ,Arial, Helvetica, sans-serif;
+
+  }
+  h1{
+      font-size: 2.5em;
+  }
+  h2{
+      font-size: 2.5em;
+  }
+
+
+  html {
+    box-sizing: border-box;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #2f2423;
+    color: #f2f2f2;
+  }
+  .about-section p {
+      font-size: 1.2em;
+  }
+  .photo-content{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding : 1em;
+    flex-wrap: wrap;
+
+  }
+  .all-photos{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+  }
+  .row{
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+  .flip-box {
+    background-color: transparent;
+    width: 60%;
+    height: 400px;
+    border: 1px solid #f1f1f1;
+    margin: 1em;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    border-radius: 50px;
+
+
+  }
+
+  .sm-flip {
+
+    width: 45%;
+  }
+
+  /* This container is needed to position the front and back side */
+  .flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+
+  }
+
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-box:hover .flip-box-inner {
+    transform: rotateY(180deg);
+  }
+
+  /* Position the front and back side */
+  .flip-box-front, .flip-box-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+  }
+
+  /* Style the front side */
+  .flip-box-front {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #34ad70;
+    color: black;
+    border-radius: 50px;
+  }
+
+  /* Style the back side */
+  .flip-box-back {
+    background-color: #2eb872;
+    color: white;
+    transform: rotateY(180deg);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 5px;
+    border-radius: 50px;
+    overflow: auto;
+  }
+
+  .flip-box-back p {
+    font-size: 1.5em;
+    width: 100%;
+  }
+  @media screen and (max-width:750px){
+    .flip-box{
+      width: 100%;
+    }
+
+    .all-photos{
+      width: 100%;
+    }
+
+
+  }
+
+
+
+
+  .title {
+    color: wheat;
+  }
+
+  .button {
+    border: none;
+    font-size: 1.3em;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+
+  .button:hover {
+    background-color: #555;
+  }
+
+
+
+  main {
+    margin-top: 100px;
+  }
+
+  @media screen and (max-width: 800px) {
+      main {
+          margin-top: 20px;
+      }
+  }
+
+  .content1{
+      width: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      background-color: #047a8a;
+      color: #f2f2f2;
+  }
+  .content1 li {
+      font-size: 1.1em;
+      margin: 0.5em;
+  }
+
+  @media screen and (max-width:750px){
+    .content1{
+      width: 100%;
+    }
+  }
+
+
+
+
+
+  .footer-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 1em;
+   
+    color: black;
+
+
+
+}
+.footer{
+
+  background-image: url(../images/footer1.jpg);
+}
+.important-links,.contact-us{
+
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.important-links span,.contact-us span{
+  border-bottom: 5px solid #751414;
+  color: #b23231;
+
+}
+.important-links li,.contact-us li{
+  font-size: 1.2em;
+  font-style: italic;
+  margin: 0.5em 0;
+}
+.important-links a{
+   color: black;
+}
+.important-links h3,.contact-us h3{
+    font-size: 2em;
+    font-family: PT_sans_boldI , Arial, Helvetica, sans-serif;;
+}
+@media screen and (max-width:600px){
+    .footer-container{
+        flex-direction: column;
+    }
+    .important-links,.contact-us{
+        width: 100%;
+    }
+}
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 350px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.card2 {
+    width:280px;
+    height: 550px ;
+    margin-top: 2em;
+}
+
+@media screen and (man-width: 600px){
+    .card{
+        width: 100%;
+    }
+    .card2{
+        width:100%;
+    }
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 60%;
+  font-size: 18px;
+}
+

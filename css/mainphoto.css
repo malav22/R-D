@@ -1,0 +1,81 @@
+@font-face{
+  font-family: "PT_sans_boldI";
+  src: url(../fonts/PT_Sans/PTSans-BoldItalic.ttf);
+}
+  .mainphoto{
+    width: 100%;
+    height: 800px;
+    
+    margin: 2rem 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#myVideo {
+  position: static;
+  
+  width: 100%;
+  height: 100%;
+}
+  .bg-image {
+    /* The image used */
+
+    /*background-image: url("./images/research.jpg");*/
+  
+    /* Add the blur effect */
+   
+   /* filter: blur(1px);
+    -webkit-filter: blur(1px);*/
+  
+    /* Full height */
+    
+   width: 100%;
+   height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /* Position text in the middle of the page/image */
+  .bg-text {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.7); /* Black w/opacity/see-through */
+    color: #f1f1ef;
+    font-weight: bold;
+    border: 3px solid #b23231;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    
+    z-index: 2;
+    width: 80%;
+    
+    text-align: center;
+  }
+  .bg-text h1{
+    font-size: 4em;
+    font-family: PT_sans_boldI , Arial, Helvetica, sans-serif;
+  }
+  .bg-text p {
+    font-size: 2em;
+  }
+
+  @media screen and (max-width:700px){
+    .bg-text h1{
+      font-size: 2em;
+      
+    }
+    .bg-text p {
+      font-size: 1em;
+    }
+
+    .mainphoto{
+      width: 100%;
+      height: 400px;
+      
+     
+  }
+  }

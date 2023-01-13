@@ -1,0 +1,75 @@
+  .footer-bottom{
+    background: rgb(100, 100, 100);
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+.footer-bottom p{
+
+    font-size: 10px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.column-res {
+  float: left;
+  width: 50%;
+  /* padding: 2.5%; */
+}
+
+/* Clear floats after the columns */
+.row-res:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.image-res{
+  width: 200px;
+  height: 200px;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+.container-ver {
+  height: 200px;
+  position: relative;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  padding: 20px;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.vertical-center h2 { color: #A52A2A; font-family: 'Open Sans', sans-serif; font-size: 24px; font-weight: 300; line-height: 32px; margin: 0 0 14px; }
+
+
+.vertical-center p { color: #222; font-family: 'Open Sans', sans-serif; font-size: 18px; font-weight: 400; line-height: 24px; margin: 0 0 14px; }
+
+.list-res{
+  padding:20px;
+  margin-top:20px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.list-res h2 { color: #A52A2A; font-family: 'Open Sans', sans-serif; font-size: 18px; font-weight: 300; line-height: 32px; margin-top:12px;}
+
+
+.list-res p { color: #222; font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 400; line-height: 24px; }
+
+@media screen and (max-width: 700px) {
+  .column-res {
+    width: 100%;
+  }
+  .image-res{
+      width: 100px;
+      height: 100px;
+  }
+  .container-ver{
+      height: 150px;
+  }
+  .vertical-center h2 { color: #A52A2A; font-family: 'Open Sans', sans-serif; font-size: 12px; font-weight: 300; line-height: 18px; margin: 0 0 14px; }
+
+
+.vertical-center p { color: #222; font-family: 'Open Sans', sans-serif; font-size: 10px; font-weight: 400; line-height: 15px; margin: 0 0 14px; }
+}
