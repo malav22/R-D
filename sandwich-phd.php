@@ -270,6 +270,12 @@
     <p>
     Call for Sandwich Ph.D Programme will be made once in a year (preferably during the Month of March). If need arises the call for proposal can be twice a year. However, the number of doctoral students to be supported by the Institute will not exceed 20 per year in any case. The Doctoral Students need to avail the opportunity within a year.
     </p>
+    <div style="width: 100%;padding:20px;">
+      <a href="./files/sandwich.pdf" download title="Click to Download">
+        <h2 style="text-align: center;">Application Form for Sandwich PhD Programme</h2>
+      </a>
+      <iframe src="./files/sandwich.pdf" width="80%" height="500px;"> </iframe>
+    </div>
   </div>
 
 

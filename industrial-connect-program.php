@@ -203,7 +203,7 @@
   <div class="main-container">
     <h1>Industry Connect Program under CSR- An Invitation</h1>
     <p>
-      IIT (ISM) Dhanbad is undertaking several new initiatives to enhance the industry-academia collaboration. We are inviting your company to leverage the resources at IIT (ISM) Dhanbad and develop new technology on collaborative mode.
+      IIT(ISM) Dhanbad is undertaking several new initiatives to enhance the industry-academia collaboration. We are inviting your company to leverage the resources at IIT(ISM) Dhanbad and develop new technology on collaborative mode.
     </p>
     <p>
       The latest amendments in the Companies Act, by the government that now allows the companies to fund research in educational institutes under the Corporate Social Responsibility (CSR) scheme.
@@ -224,7 +224,7 @@
 
       </li>
       <li>
-        Fund the startups in the campus
+        Fund for the startups in the campus
 
       </li>
       <li>
@@ -269,7 +269,7 @@
       </b>
     </p>
     <p>
-    Please find the <a href="files/Department details under CSR.pdf">strengths of various departments</a> and <a href="files/faculty_expertise.pdf">expertise of faculty members</a> which gives an possible areas of collaboration.
+    Please find the <a href="files/Department details under CSR.pdf">strengths of various departments</a> and <a href="files/faculty_expertise.pdf">expertise of faculty members</a> which gives a possible area of collaboration.
     </p>
     <br>
   </div>

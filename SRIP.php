@@ -202,31 +202,51 @@
 
   <div class="main-container">
     <h1>Summer Research Internship Programme</h1>
+
     <p>
-      <b>Under the Summer Research Internship Program (SRIP) for Undergraduate students</b> from IIT(ISM) and other participating institutions undertake short duration, but focused research projects and push their intellectual abilities beyond those driven by the classroom for a duration of 8 weeks.
-    <p>
-      SRIP Interns are required to give a mid-term presentation after four weeks, to a review committee consisting of a group of academic staff members. The review committee gives feedback and suggests possible improvements in the work. At the end of the program all the SRIP Interns make a poster presentation of the work carried out. The poster presentation is open to the public. It is also evaluated by faculty members. A commendation certificate will be given to SRIP Interns who produce exceptional quality research during the period signed by the mentor and Dean (R&D).
+      SRIP Interns are required to give a mid-term presentation after four weeks,
+      to a review committee consisting of a group of academic staff members. The
+      review committee gives feedback and suggests possible improvements in
+      the work. At the end of the program all the SRIP Interns make a poster
+      presentation of the work carried out. The poster presentation is open to the
+      public. It is also evaluated by faculty members. A commendation certificate
+      will be given to SRIP Interns who produce exceptional quality research
+      during the period signed by the mentor and Dean (R&amp;D).
     </p>
     <p>
-      Total number of SRIP Interns will be about 90 per summer which includes Interns under Institute Funded/Project Funded/Self-Financed.
+      Total number of SRIP Interns will be about 90 per summer, which includes
+      Interns under Institute Funded/Project Funded/Self-Financed.
     </p>
     <p>
-      The Non-IIT(ISM) applicants shall be required to pay the non-refundable application fee of Rs. 500/- through Payment Gateway.
+      The Non-IIT(ISM) applicants shall be required to pay the non-refundable
+      application fee of Rs. 500/- through Payment Gateway.
     </p>
     <ul>
       <li>
         <b>
-          Funding from SRIP (Institute Funded):</b> Students working under "Funding from SRIP" only at IIT(ISM) receive a stipend of Rs 10,000/- for 08 weeks duration. Total number of SRIP interns (Institute Funded category) per department is two out of which one will be a NON-IIT(ISM) student.
+          Funding from SRIP (Institute Funded):</b> Students working under
+        &quot;Funding from SRIP&quot; only at IIT(ISM) receive a stipend of Rs 10,000/-
+        for 08 weeks duration. Total number of SRIP interns (Institute
+        Funded category) per department is two, out of which one will be a
+        NON-IIT(ISM) student.
       </li>
       <li>
-        <b>Funding from IIT(ISM) Project (Project Funded):</b> This will provide an opportunity to the students, to work on projects which will be funded by faculty members of IIT(ISM) to a maximum of Rs. 10000/- for 8 weeks.
+        <b>Funding from IIT(ISM) Project (Project Funded):</b> This will
+        provide an opportunity to the students, to work on projects, which
+        will be funded by faculty members of IIT(ISM), Dhanbad to a
+        maximum of Rs. 10000/- for 8 weeks.
       </li>
       <li>
-        <b>Self-Funded:</b> This will provide an opportunity to the students, to work on projects of faculty members of IIT (ISM) but would not be receiving any funding at all.
+        <b>Self-Funded:</b> This will provide an opportunity to the students, to
+        work on projects of faculty members of IIT(ISM), Dhanbad but would
+        not be receiving any funding at all.
       </li>
     </ul>
     <p>
-      The application received by Office of Dean (R&D) will be forwarded to SRIP Committee of the Department to recommend the applications. The SRIP Committee of the Department is a three-member committee: Head of the Department as Chairperson, Convener DUGC and One more faculty member from the Department. </p>
+      The applications received by the Office of Dean (R&amp;D) will be forwarded to
+      SRIP Committee of the Department to recommend the applications. The
+      SRIP Committee of the Department is a three-member committee:
+      Head of the Department as Chairperson, Convener DUGC and One more faculty member from the Department.</p>
     <p>
       <b style="color:#A52A2A;">
         Guidelines for selecting the Interns under SRIP
@@ -257,13 +277,22 @@
         Students with backlog and/or disciplinary action are not eligible.
       </li>
       <li>
-        Maximum one student per faculty can be funded from Institute Funded Category. The number of intern per department will be decided with the following formula: (Total Number of Interns/Total Number of Faculty Members in the institute) * (Total Number of Faculty in the Department). Faculty means all existing faculty who are eligible to guide projects.
+        Maximum one student per faculty can be funded from Institute Funded
+        Category. The number of intern per department will be decided with the
+        following formula: (Total Number of Interns/Total Number of Faculty
+        Members in the institute) * (Total Number of Faculty in the Department).
+        Faculty means all existing faculty who are eligible to guide projects.
       </li>
       <li>
         The living expenses has to be borne by the Intern.
       </li>
       <li>
-        All NON-IIT (SIM) interns will be issued a temporary institute ID to avail the library, sports, medical, computer centre, internet, and other institute and departmental research and recreation facilities. S/He will be required to abide by the conduct rules of the institute, failing which the internship will be terminated and the intern will be asked to leave.
+        All NON-IIT (SIM) interns will be issued a temporary institute ID to avail the
+        library, sports, medical, computer centre, internet, and other institute and
+        departmental research and recreation facilities. She/He will be required to
+
+        abide by the conduct rules of the institute, failing which the internship will be
+        terminated and the intern will be asked to leave.
       </li>
       <li>
         Applications need to be submitted through an email <a href="mailto:srip@iitism.ac.in">(srip@iitism.ac.in)</a>. The applications are to be forwarded by the Head of Department stating that there is no backlog and/or disciplinary action against the said student.
@@ -273,11 +302,13 @@
       </li>
     </ul>
     <div style="width: 100%;padding:20px;">
-      <a href="./files/SRIP.pdf" download title="Click to Download"><h2 style="text-align: center;">Summer Research Internship Program (SRIP)Application Form</h2></a>
+      <a href="./files/SRIP.pdf" download title="Click to Download">
+        <h2 style="text-align: center;">Summer Research Internship Program (SRIP) Application Form</h2>
+      </a>
       <iframe src="./files/SRIP.pdf" width="80%" height="500px;"> </iframe>
     </div>
-     
-    </div>
+
+  </div>
 
   </div>
 

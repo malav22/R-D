@@ -212,7 +212,7 @@
       </b>
     </p>
     <p>
-      Any proposal for organizing joint Seminar/Symposium/Conference etc. should first be discussed in DAC of the concerned Department/Centre. The Department concerned may forward such proposal to the Dean (R&D) IIT (ISM) alongwith their recommendation and names of Departmental representatives for organizing such Seminar/Symposium/Conference indicating:
+      Any proposal for organizing joint Seminar/Symposium/Conference etc. should first be discussed in DAC of the concerned Department/Centre. The Department concerned may forward such proposal to the Dean (R&D), IIT(ISM) Dhanbad alongwith their recommendation and names of Departmental representatives for organizing such Seminar/Symposium/Conference indicating:
     <ul>
       <li>
         The facilities provided by such Department for organizing such Seminar/Symposium/conference to avoid any further confusion at a later stage.
@@ -232,7 +232,7 @@
       </b>
     </p>
     <p>
-      IIT (ISM) may provide Seed money for organizing Joint/Seminar/Symposium/Conference etc. to a maximum of Rs. 50,000/-. This money to be refunded to the Institute after completion of the Seminars/Symposium.
+      IIT(ISM) Dhanbad may provide Seed money for organizing Joint/Seminar/Symposium/Conference etc. to a maximum of Rs. 50,000/-. This money needs to be refunded to the Institute after completion of the Seminars/Symposium.
     </p>
 
     <p>
@@ -241,7 +241,7 @@
       </b>
     </p>
     <p>
-      After approval of the programme the Organizing Committee will decide and carry out all tasks (which will include procuring of funds etc.) with due diligence as would be required to take the programme to logical culmination.
+      After approval of the programme, the Organizing Committee will decide and carry out all tasks with due diligence as would be required to take the programme to logical culmination.
     </p>
 
     <p>
@@ -275,7 +275,7 @@
         (5) Numbering of Seminar/Symposium/Conference </b>
     </p>
     <p>
-      All the Seminars/Symposium/Conference organized by the institute should have unique number to identify the same in the records. For this purpose such Seminar/Symposium/Conference may be allotted number by the office of Dean (R&D). The officials of organizing team will apply in appropriate form alongwith approved budget etc. for allotment of number.
+      All the Seminars/Symposium/Conference organized by the institute should have unique number to identify the same in the records. For this purpose such Seminar/Symposium/Conference would be allotted number by the office of the Dean (R&D). The officials of organizing team will apply in appropriate form alongwith approved budget etc. for allotment of number.
     </p>
 
     <p>
@@ -284,7 +284,7 @@
       </b>
     </p>
     <p>
-      The organizing committee of the Seminar/symposium/Conference will recommend the budget for the proposed Seminar/Symposium/Conference in accordance with commitment of funds from various sponsors/advertisement. The budget of the Seminar/Symposium/Conference shall finally be approved by the Director, IIT (ISM). If adequate funds are not received in advance, the programme can be postponed or terminated as the situation demands in consultation with the Dean (R&D).
+      The organizing committee of the Seminar/symposium/Conference will recommend the budget for the proposed Seminar/Symposium/Conference in accordance with commitment of funds from various sponsors/advertisement. The budget of the Seminar/Symposium/Conference shall finally be approved by the Director, IIT(ISM) Dhanbad. If adequate funds are not received in advance, the programme can be postponed or terminated as the situation demands in consultation with the Dean (R&D).
     </p>
 
     <p>
@@ -292,7 +292,7 @@
         (7) Venue Charges : </b>
     </p>
     <p>
-      In case of joint seminar/symposium/conference, if IIT(ISM) is one of the party to organize the same, using IIT (ISM) premises as venue should be made available free of cost. However, nominal incidental service charges (for payment of honorarium/overtime etc.) may be levied in such cases. If only IIT(ISM) venue is used and institute is not involved in organizing seminar/symposium/conference, full rental for GJLT/Penman Auditorium/Lower Ground/Upper Ground etc. should be levied.
+      In case of joint seminar/symposium/conference, if IIT(ISM) Dhanbad is one of the party to organize the same, using IIT(ISM) Dhanbad premises as venue should be made available free of cost. However, nominal incidental service charges (for payment of honorarium/overtime etc.) may be levied in such cases. If only IIT(ISM) Dhanbad venue is used and institute is not involved in organizing seminar/symposium/conference, full rental for GJLT/Penman Auditorium/Lower Ground/Upper Ground etc. should be levied.
     </p>
 
     <p>
@@ -302,7 +302,7 @@
       </b>
     </p>
     <p>
-      All the nomination/participation fees for IIT (ISM) participants shall be 50% of the normal fees charges from others.
+      All the nomination/participation fees for IIT(ISM) Dhanbad participants shall be 50% of the normal fees charges from others.
     </p>
 
     <p>
@@ -360,7 +360,7 @@
       </b>
     </p>
     <p>
-      After completion of the Seminar/Symposium/Conference the consolidated account should be prepared by the Treasurer and Convener/Organizing secretary (including Head-wise Receipts and payments etc.) and should be audited by Internal Audit wing of the Institute. The audit is expected to be completed within 12 months of the Conference. Any exception to this shall be considered on a case to case basis with a prior approval from the Director of the Institute.
+      After completion of the Seminar/Symposium/Conference, the consolidated account should be prepared by the Treasurer and Convener/Organizing secretary (including Head-wise Receipts and payments etc.) and should be audited by Internal Audit wing of the Institute. The audit is expected to be completed within 12 months of the Conference. Any exception to this shall be considered on a case to case basis with prior approval from the Director of the Institute.
 
 
     </p>

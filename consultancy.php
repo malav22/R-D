@@ -190,11 +190,13 @@
                 height: 50px;
             }
         }
-        .a a{
+
+        .a a {
             text-decoration: none;
             color: #a52a2a;
         }
-        .a a:hover{
+
+        .a a:hover {
             text-decoration: underline;
             opacity: 75%;
         }
@@ -214,44 +216,31 @@
         <div class="row">
             <br>
             <div class="middle-box3" style="width:70vw;height:80vh;padding:0% 20%;">
-            <br>
-            <br>
-                <h1 >Consultancy / EDP / Testing</h1>
+                <br>
+                <br>
+                <h1>Consultancy / EDP / Testing</h1>
                 <br>
                 <br>
                 <!-- <br> -->
                 <div class="a">
+
+                    <br><a href="files/2022-23_Consultancy.pdf">Consultancy Projects 2022-23</a><br>
+                    <br><a href="files/2021-22_Consultancy.pdf">Consultancy Projects 2021-22</a><br>
+                    <br><a href="files/2020-21_Consultancy.pdf">Consultancy Projects 2020-21</a><br>
+                    <br><a href="files/2019-20_Consultancy.pdf">Consultancy Projects 2019-20</a><br>
+                    <br><a href="files/2018-19_Consultancy.pdf">Consultancy Projects 2018-19</a><br>
                     
-                        <a href="files/2018-2019_Sanctioned Consultancy Projects-Final.xlsx">Consultancy Projects 2018-19</a>
-                    <br><br>
-                        <a href="files/2019-2020_Ongoing & Completed.xlsx">Consultancy Projects 2019-20</a>
-                    <br><br>
-                        <a href="files/2020-2021_Ongoing & Completed.xlsx">Consultancy Projects 2020-21</a>
-                    <br><br>
-                        <a href="files/2021-2022.xlsx">Consultancy Projects 2021-22</a>
-                    <br><br>
-                        <a href="files/2022-2023_ Sanctioned _CONS_Test_EDP.xlsx">Consultancy Projects 2022 to 10 January 2023</a>
-        </div>
-            
+                </div>
+
             </div>
         </div>
     </div>
 
     <br>
-    <footer id="homepage-footer">
-        <div class="footer-content">
-            <p>Contact Us</p>
-            <p>Office of Dean ( Research & Development )</p>
-            <p>Email : drnd@iitism.ac.in</p>
-            <p>Phone : 0326-2235203 / 2235217 / 2235253</p>
-        </div>
-        <div class="footer-bottom">
-            <p>copyright &copy; IIT(ISM) Dhanbad</p>
-            <p>Conceptualized by Prof. Sagar Pal, Prof. Ravi Kumar Gangwar, and Prof. Ejaz Ahmad. Designed and Developed by <a target="_blank" style="text-decoration:none;color:#df534c;" href="https://www.linkedin.com/in/malav-thakkar-011517200/">Malav Thakkar</a></p>
-        </div>
+    <?php
+    require("footer.php");
+    ?>
 
-    </footer>
-    
     <script type="text/javascript" src="js/carousel.js"></script>
 </body>
 

@@ -69,7 +69,7 @@
 
         .home-admin-button button {
             /* width: 20%; */
-            padding: 0 2px;
+            padding: 0 5px;
             /* margin: 2px; */
         }
 
@@ -208,9 +208,10 @@
                 <h4>General Information</h4>
                 <ul class="a">
                     <li><a href="./files/R&D_Brochure.pdf">R&D Brochure</a></li>
-                    <li><a href="files/R&D projects 2018 to till date.xlsx">Sponsored R&D Projects</a></li>
+                    <li><a href="sponsored-projects.php">Sponsored R&D Projects</a></li>
                     <li><a href="consultancy.php">Consultancy / EDP / Testing</a></li>
-                    <li><a href="files/International  Project details.xlsx">International Projects / Mobility</a></li>
+                    <li><a href="files/International Projects.pdf">International Projects</a></li>
+                    <li><a href="files/International Mobility.pdf">International Mobility</a></li>
                     <li><a href="files/Major Technologies Developed.pdf">Major Technologies and Products Developed</a></li>
                     <li><a href="files/Patent_Details_2018_onwards.pdf">Patents</a></li>
 
@@ -226,7 +227,7 @@
                     <li><a href="/project-guideline.php#pg5">PFMS Certificate</a></li>
                     <li><a href="/project-guideline.php#pg6">GST/TAN/PAN</a></li>
                     <li><a href="/project-guideline.php#pg7">Unique ID No.</a></li>
-                    <li><a href="/project-guideline.php#pg8">Proforma/Tax Invoice</a></li>
+                    <li><a href="/project-guideline.php#pg8">Tax Invoice</a></li>
                     <li><a href="/project-guideline.php#pg9">Tax Exemption</a></li>
                     <li><a href="/project-guideline.php#pg10">Payments</a></li>
                     <li><a href="/project-guideline.php#pg11">Recruitment in Projects</a></li>
@@ -250,7 +251,7 @@
                 <ul class="a">
                     <li><a href="faculty-research-scheme.php">Faculty Research Scheme</a></li>
                     <li><a href="faculty-mobility.php">Faculty Mobility Program</a></li>
-                    <li><a href="files/International_Mobility.pdf">International Mobility</a></li>
+                    <!-- <li><a href="files/International_Mobility.pdf">International Mobility</a></li> -->
                     <li><a href="industrial-connect-program.php">Industry Connect Program</a></li>
                     <li><a href="./files/EDP Form.doc">Executive Development Program Form</a></li>
                     <li><a href="facilities-for-inspire-faculty.php">Facilities for INSPIRE Faculty</a></li>
@@ -379,7 +380,7 @@
             <p>Phone : 0326-2235203 / 2235217 / 2235253</p>
         </div>
         <div class="footer-bottom">
-            <p>copyright &copy; IIT(ISM) Dhanbad</p>
+            <p>Copyright &copy; IIT(ISM) Dhanbad</p>
             <p>Conceptualized by Prof. Sagar Pal, Prof. Ravi Kumar Gangwar, and Prof. Ejaz Ahmad. Designed and Developed by <a target="_blank" style="text-decoration:none;color:#2296e3" href="https://www.linkedin.com/in/malav-thakkar-011517200/">Malav Thakkar</a></p>
         </div>
 
@@ -430,11 +431,11 @@ research infrastructure to develop technologies pertinent to your organization.
                     </td>
                     <td style="width:65%;">
                         <p style="font-size:15px;color:#A52A2A">Prof. Sagar Pal</p>
-                        <p style="line-height:16px;">Dean, Research & Development (R&D)</p>
+                        <p style="line-height:16px;">Dean (Research & Development)</p>
                         <p style="line-height:16px;">Professor, Dept. of Chemistry & Chemical Biology</p>
                         <br>
                         <p style="line-height:16px;">Indian Institute of Technology (ISM) Dhanbad</p>
-                        <p style="line-height:16px;">Tel : +91-326-2235203/5253/5217</p>
+                        <p style="line-height:16px;">Tel : +91-326-2235203</p>
                         <p style="line-height:16px;">E-mail : drnd@iitism.ac.in</p>
                         <p style="line-height:16px;">Web : https://people.itism.ac.in/ ~ sagarpal/</p>
                     </td>
@@ -445,21 +446,19 @@ research infrastructure to develop technologies pertinent to your organization.
                 <td style="width:60%;">
                         <br>
                         <p style="font-size:15px;color:#A52A2A">प्रो० सागर पाल</p>
-                        <p style="line-height:16px;">अधिष्ठाता, अनुसंधान एवं विकास (अनु. एवं वि.)</p>
+                        <p style="line-height:16px;">अधिष्ठाता (अनुसंधान एवं विकास)</p>
                         <p style="line-height:16px;">प्राध्यापक, रसायन एवं रसायनिक जीव विज्ञान विभाग</p>
                         <br>
                         <p style="line-height:16px;">भारतीय प्रौद्योगिकी संस्थान (भारतीय खनि विद्यापीठ) धनबाद</p>
                         
-                        <p style="line-height:16px;">दूरभाष : +91-326-2235203 / 5769</p>
+                        <p style="line-height:16px;">दूरभाष : +91-326-2235203</p>
                         <p style="line-height:16px;">ईमेल : drnd@iitism.ac.in</p>
                         <p style="line-height:16px;">वेब : https://people.itism.ac.in/ ~ sagarpal/</p>
                     </td>
                 </tr>
             </table>
             <br>
-            <p style="text-align:justify;font-size:15px;margin-top:5px;padding:0 20px;">
-            The Office of Dean (Research and Development) drives Strategic planning and provide guidance across academic and research programs, fostering new and interdisciplinary research initiatives and collaborations. Represents institute for external R&D funding agencies.
-            </p>
+           
             <br>
         </div>
         `;
@@ -524,9 +523,7 @@ research infrastructure to develop technologies pertinent to your organization.
                 </tr>
             </table>
             <br>
-            <p style="text-align:justify;font-size:15px;margin-top:5px;padding:0 20px;">
-            The Office of Dean (Research and Development) drives Strategic planning and provide guidance across academic and research programs, fostering new and interdisciplinary research initiatives and collaborations. Represents institute for external R&D funding agencies.
-            </p>
+            
             <br>
         </div>
         `;
@@ -566,9 +563,7 @@ research infrastructure to develop technologies pertinent to your organization.
                 </tr>
             </table>
             <br>
-            <p style="text-align:justify;font-size:15px;margin-top:5px;padding:0 20px;">
-            The Office of Dean (Research and Development) drives Strategic planning and provide guidance across academic and research programs, fostering new and interdisciplinary research initiatives and collaborations. Represents institute for external R&D funding agencies.
-            </p>
+          
             <br>
         </div>
         `;
@@ -608,9 +603,7 @@ research infrastructure to develop technologies pertinent to your organization.
                 </tr>
             </table>
             <br>
-            <p style="text-align:justify;font-size:15px;margin-top:5px;padding:0 20px;">
-            The Office of Dean (Research and Development) drives Strategic planning and provide guidance across academic and research programs, fostering new and interdisciplinary research initiatives and collaborations. Represents institute for external R&D funding agencies.
-            </p>
+            
             <br>
         </div>
         `;

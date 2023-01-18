@@ -208,16 +208,16 @@
   <div class="main-container">
     <h1>Faculty Mobility Program (FMP)</h1>
     <p>
-      Academia and industry share a symbiotic relationship in terms of mutual interaction, collaboration and participation towards solution to real time problems, leading to a product/process development. This bonding may act as a catalyst for a faculty member to enrich his/her skills and expertise in quality teaching and research. This will further help the faculty member to engage with the industry partner for technology development and innovation in cutting edge technology through collaborative research projects. Such types of projects are also important for the industry as they look towards academia for solutions of their concerns.
+      Academia and industry share a symbiotic relationship in terms of mutual interaction, collaboration and participation towards solution to real time problems, leading to a product/process development. This bonding may act as a catalyst for a faculty member to enrich her/his skills and expertise in quality teaching and research. This will further help the faculty member to engage with the industry partner for technology development and innovation in cutting edge technology through collaborative research projects. Such types of projects are also important for the industry as they look towards academia for solutions of their concerns.
 
     <p>
     </p>
     <p>
       Apart from collaborative research, the class room teaching will become quite lively and practical-oriented as the faculty member will discuss live projects/case studies. Apparently, the student will have a feel of the industry without being physically there.
-    <p>A concrete “Interaction Proposal” to be submitted to the Office of Dean (R&D) for necessary approval. The Interaction proposal should contain the following:</p>
+    <p>A concrete “Interaction Proposal” to be submitted to the Office the of Dean (R&D) for necessary approval. The Interaction proposal should contain the following:</p>
     <ul>
       <li>
-        Acceptance Letter from the industry/laboratory concern </li>
+        Acceptance letter from the industry/laboratory concern </li>
       <li>
         Area of expertise / Publications / New Area to be developed
       </li>
@@ -248,7 +248,7 @@
 
     </p>
     <p>
-      Faculty members from Science/Management/Humanities and Social Science discipline are expected to plan such visits to Industry /R&D Organizations/CSIR/TIFR or any other organization of similar type.
+      Faculty members from Science/Management/Humanities and Social Science disciplines are expected to plan such visits to Industry /R&D Organizations/CSIR/TIFR or any other organization of similar type.
 
 
     </p>

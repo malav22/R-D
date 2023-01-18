@@ -204,25 +204,25 @@
         <h1>Project Guidelines</h1>
         <div class="card" id="pg1">
             <h2>Introduction</h2>
-            <p> The Office of the Dean (Research and Development) drives strategic planning and provide guidance across academic and research programs, fostering new and interdisciplinary research initiatives and collaborations.
+            <p> The Office of the Dean (Research and Development) drives strategic planning and provides guidance across academic and research programs, fostering new and interdisciplinary research initiatives and collaborations.
             </p>
         </div>
 
         <div class="card" id="pg2">
             <h2>How to Apply For a Project?</h2>
-            <p>The faculty members can apply for the project to various funding agency by submitting the form
+            <p>The faculty members can apply for the project to various funding agencies by submitting the form
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScfaEG4EL_emvNZaTsi0TIEvRT5DF67TT7gMlD0Q3xDWv_VIg/viewform?vc=0&c=0&w=1&flr=0">(Format for Forwarding R&D Proposal)</a>.
-                Each funding agency has its format for endorsement, while sending the proposal please send the relevant endorsement form as well.<br>
-                Please send a copy of the entire proposal including endorsement letter certificate from investigators for the office record.
+                Each funding agency has its format for endorsement. While sending the proposal, please send the relevant endorsement form as well.<br>
+                Please send a copy of the entire proposal, including endorsement letter, certificate from investigators for the office record.
             </p>
         </div>
 
         <div class="card" id="pg3">
             <h2>How to get the Project Number?</h2>
             <p>
-                Once a project is sanctioned by the concerned funding agency please send a request letter to Dean (R&D) for the Project Number along with the sanction letter of the funding agency.
+                Once a project is sanctioned by the concerned funding agency, please send a request letter to Dean (R&D) for the Project Number along with the sanction letter of the funding agency.
                 This number is a unique number and is mandatory for running the project.
-                Office of Dean (R&D) enters the Project details in the MIS.
+                Office of the Dean (R&D) enters the Project details in the MIS.
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeTtGBgIqWcVlajxsQSEX3E4y1tRCI4Ruem9kHMMt1TvegtA/viewform?vc=0&c=0&w=1"> How to Get the Project Number</a>
             </p>
         </div>
@@ -252,28 +252,29 @@
         </div>
 
         <div class="card" id="pg8">
-            <h2>Proforma/Tax Invoice</h2>
-            <p>Some projects require Proforma/Tax Invoice, Proforma Invoice can be raised by the PI but Tax Invoice is issued by the Office of Dean (R&D) on the request of PI. PIs are not supposed to raise TAX invoice.</p>
+            <h2>Tax Invoice</h2>
+            <p>Some projects require Tax Invoice. Tax Invoice is issued by the Office of the Dean (R&D) on request of PI.</p>
         </div>
 
         <div class="card" id="pg9">
             <h2>Tax Exemption</h2>
-            <p>Some PIs may require Tax Exemption under section 197 which allows Nil or Lower Tax Rate Deduction of TDS (or TDS Exemption). PIs desiring such exemption may send the request to Assistant Registrar (Project) with following information:</p>
+            <p>TDS exemption is furnished below:</p>
+            <p>Some PIs may require Tax Exemption under section 197 which allows Nil or Lower Tax Rate Deduction of TDS (or TDS Exemption). PIs desiring such exemption may send the request to Dean (R&D) office  with following information:</p>
             <ul>
                 <li>Amount Expected</li>
                 <li>PAN of the Funding Agency</li>
                 <li>TAN of the Funding Agency</li>
                 <li>Address of the Funding Agency</li>
-                <li>Type of Work (viz., Equipment under R&D) </li>
-
+                <li>Type of Work</li>
             </ul>
             <br>
-            <p>The project section compiles the data for all the PIs. Project Section applies at institute level. This certificate is valid for a financial year only. It is desired that PIS sent such request early March such that Project section applies early April.</p>
+            <p>This certificate will be valid  for a financial year only. </p>
+            <p>A mail will be circulated from the office of the Dean (R&D) by 20th Feb of every year , and data received from the PIs/CIs will be used for filing the application for TDS exemption certificate under Section 197 of IT Act. All PIs/CIs are requested to  send the response by 28/29th Feb of the current financial year for getting exemption in the ensuing financial year.</p>
         </div>
 
         <div class="card" id="pg10">
             <h2>Payments</h2>
-            <p>It is preferred that the all payments related to project are made online.For payment within institute can be assist on this.</p>
+            <p>It is preferred that the all payments related to project are made online.</p>
             <p><a href="https://eps.eshiksa.net/DirectFeesv3/IIT_Dhanbad/index">IIT ISM Online Payment </a> </p>
         </div>
 
@@ -282,21 +283,21 @@
             <p>The Principal Investigator takes the approval of the following from Dean (R&D)</p>
 
             <ul>
-                <li><a href="./files/Approval of Advertisement and Selection Committee-Form 301.docx">Advertisement and Selection Committee</a></li>
-                <li><a href="./files/Format-for-Advertisement-of-Project-Fellow.doc">Description of the Advertised Post</a></li>
+                <li><a href="./files/Approval of Advertisement and Selection Committee-Form 301.pdf">Advertisement and Selection Committee</a></li>
+                <li><a href="./files/Format-for-Advertisement-of-Project-Fellow.pdf">Description of the Advertised Post</a></li>
             </ul>
             <br>
-            <p>Once it is approved by the Dean (R&D), the same has to be hoisted on the Institute Website by the PI using following steps:</p>
+            <p>Once it is approved by the Dean (R&D), the same has to be hosted on the Institute Website by the PI using following steps:</p>
             <p><a href="./files/Steps-for-Uploading-web-related-data.pdf">Steps to upload project opening On MIS</a></p>
             <br>
-            <p>Walk in interviews may be conducted but interview over skype or video conferencing is not permitted.</p>
-            <p>After the interview
-                <a href="./files/Report of Selection Committee.docx">Report of the Selection Committee</a> is to be sent to Dean (R&D) for approval.
+
+            <p>After the interview,
+                <a href="./files/Report of Selection Committee.pdf">Report of the Selection Committee</a> is to be sent to Dean (R&D) for approval.
             </p>
 
 
             <br>
-            <p>The Office of Dean (R&D) issues the offer letter after the DRAFT offer letter is approved by the PI. The offer letter is sent to the Project Employee through Email with a copy to PI, SMO, HOD. The Project employee sends the acceptance of the offer through email within seven days of the offer.</p>
+            <p>The Office of the Dean (R&D) issues the offer letter. The offer letter is then sent to the Project Employee through Email with a copy to PI, SMO, HOD. The Project employee sends the acceptance of the offer through email within seven days of the offer.</p>
             <p>Once the candidate joins, the following is to be submitted by the candidate to the Office of Dean (R&D)</p>
             <ul>
                 <li>
@@ -311,8 +312,8 @@
 
             </ul>
             <br>
-            <p>After the receipt of the above two, Notification related to joining is issued by the Office of Dean (R&D).</p>
-            <p>In case the selected candidate does not join then the offer will be sent to Wait Listed Candidate. Normally the panel is valid for six months.</p>
+            <p>After the receipt of the same, notification related to joining is issued by the Office of the Dean (R&D).</p>
+            <p>In case the selected candidate does not join, then the offer will be sent to Wait Listed Candidate. Normally the panel is valid for six months.</p>
         </div>
 
         <!-- <div class="card" id="pg12">
@@ -340,17 +341,15 @@
             <p>Dean (R&D) endorses the application for travel support. The possible source of travel support is:</p>
             <ul>
 
-                <li>The PI or a regular staff of the institute can go for Project Leave up to a maximum of 15 days during a year without hampering the classes. Before proceeding for leave he needs to get the approval from the Director by filling the form</li>
-                <li> <a href="./files/Tour-cum-leaveapplication.docx">Tour-cum-Leave Application form</a> </li>
+                <li>The PI or a regular staff of the institute can go for Project Leave up to a maximum of 15 days during a year without hampering the classes. Before proceeding for leave she/he needs to get the approval from the Director through MIS.</li>
+                <!-- <li> <a href="./files/Tour-cum-leaveapplication.docx">Tour-cum-Leave Application form</a> </li> -->
                 <li>The Project Employees can proceed for field trips etc. by filling the </li>
-                <li><a href="./files/Tour-cum-leave application form_Project_Employee.docx">Tour Approval Form</a></li>
+                <li><a href="./files/Tour-cum-leave application form_Project_Employee.pdf">Tour Approval Form</a></li>
                 <li>And getting it approved from the Dean (R&D)</li>
                 <li>It is advisable to plan such trips well in advance and without disturbing much of classes.</li>
-                <li>On return the claim for travelling and dearness allowance should be made through</li>
-                <li><a href="./files/TA Claim Form.docx">TA Claim Form</a> </li>
-                <li>With the TA Claim form please attach a detailed tour diary which states the detailed of work carried out.</li>
-
-
+                <li>On return, the claim for travelling and dearness allowance should be made through</li>
+                <li><a href="./files/TA Claim Form.pdf">TA Claim Form</a> </li>
+                <li>With the TA Claim form please attach a detailed tour diary which states the detailed work that was carried out.</li>
 
             </ul>
         </div>
@@ -360,12 +359,12 @@
         </div>
         <div class="card" id="pg15">
             <h2>Utilization Certificate (UC)/ Statement of Expenditure (SE)</h2>
-            <p>PI sends a request to Project Section for preparing of UC/SE by the end of March. It is expected that the UC/SE will be prepared by the Project Section by Mid of April.</p>
+            <p>PIs are advised to send the request to project section (through email: <a href="mailto:project@iitism.ac.in">project@iitism.ac.in</a>) for preparing SE/UC well in advance. The Projec account section will provide the SE/UC at the earliest.</p>
         </div>
         <div class="card" id="pg16">
             <h2>Purchase Manual</h2>
-            <p>Institute Purchase Manual to be followed for the purchase. Purchase manual and other related information can be found at :
-                <a href="https://www.iitism.ac.in/index.php/Tendernew"> Purchase Manual</a>
+            <p>Purchase procedure in a nutshell :
+                <a href="files/purchase-manual.pdf">Manual</a>
             </p>
         </div>
         <div class="card" id="pg17">
@@ -374,8 +373,8 @@
 
                 <a href="./files/STAFF ADVANCE FORM_Project Acts.docx">Staff Advance Form</a>.
             </p>
-            <p>Project Employees are not entitled for Advance. PIs can take advance on the behalf of Project Employees.</p>
-            <p>Advance once taken needs to be settled within 30 days of return, else interest would be charged as per GoI norm on the advance drawn.</p>
+            <p>Project Employees are not entitled for Advance. PIs can take advance on behalf of the Project Employees.</p>
+            <p>Advance once taken, needs to be settled within 30 days of return, else interest would be charged as per GoI norms on the advance drawn.</p>
             <p>At a time PI can have one advance only.</p>
         </div>
         <div class="card" id="pg18">
@@ -396,34 +395,34 @@
         </div>
         <div class="card" id="pg20">
             <h2>When a PI Leaves the Institute</h2>
-            <p> In such cases the guidelines of the funding agency would be followed. In case the funding agency permits to transfer the project where the PI has joined after leaving IIT (ISM) he needs to do following:</p>
+            <p> In such cases the guidelines of the funding agency would be followed. In case the funding agency permits to transfer the project where the PI has joined after leaving IIT(ISM) Dhanbad she/he needs to do following:</p>
 
             <ul>
-                <li>A letter from Funding Agency to Transfer the Project along with the assets purchased from the said project and transferring of unspent fund.</li>
+                <li>A letter from funding agency to transfer the project along with the assets purchased from the said project and transferring of unspent fund.</li>
                 <li>Acceptance from the new institute .</li>
-                <li>No Dues from the Concerned Head of The Department at IIT (ISM) regarding the same.</li>
+                <li>No Dues from the Concerned Head of the Department at IIT(ISM) Dhanbad regarding the same.</li>
                 <li>Deletion of the items from the Departmental and Central Asset Register.</li>
-                <li>Subsequently a letter will be issued by Dean (R&D) in this regard .</li>
+                <li>Subsequently a letter will be issued by the Dean (R&D) in this regard .</li>
 
             </ul>
         </div>
         <div class="card" id="pg21">
             <h2>Transfer of Project</h2>
             <p>
-                Collaborative R&D Projects can be submitted where the faculty of IIT(ISM) can be PI or Co-PI. The Proposals should clearly spell out the fund requirement of the participating institute(s) along with Overhead charges.
+                Collaborative R&D Projects can be submitted where the faculty of IIT(ISM) Dhanbad can be PI or Co-PI. The Proposals should clearly mention about the fund requirement of the participating institute(s) along with Overhead charges.
             </p>
 
-            <p> If a faculty member from another institute/organization joins IIT (ISM) and he intends to transfer the sanctioned/ongoing project from his previous organization/institute, following would be required:</p>
+            <p> If a faculty member from another institute/organization joins IIT(ISM) Dhanbad and she/he intends to transfer the sanctioned/ongoing project from his previous organization/institute, following would be required:</p>
 
             <ul>
-                <li>A letter from Funding Agency to Transfer the Project along with the assets purchased from the said project and transferring of unspent fund.</li>
-                <li>Subsequently a letter will be issued by Dean (R&D) in this regard.</li>
+                <li>A letter from funding agency to transfer the project along with the assets purchased from the said project and transferring of unspent fund.</li>
+                <li>Subsequently a letter will be issued by the Dean (R&D) in this regard.</li>
 
             </ul>
 
             <br>
-            <p><b>Collaborative R&D Projects can be submitted where the faculty of IIT(ISM) can be PI or Co-PI. The Proposals should clearly spell out the fund requirement of the participating institute(s) along with Overhead charges.</b>
-            <p>
+            <!-- <p><b>Collaborative R&D Projects can be submitted where the faculty of IIT(ISM) Dhanbad can be PI or Co-PI. The Proposals should clearly mention about the fund requirement of the participating institute(s) along with Overhead charges.</b>
+            </p> -->
 
         </div>
     </div>

@@ -203,7 +203,7 @@
   <div class="main-container">
     <h1>Financial Support to full-time PhD Students for Attending International Conference/Symposium IIT(ISM) Dhanbad</h1>
     <p>
-      The Financial Assistance is proposed to be provided to Full- Time PhD students for attending international conferences where oral presentation of paper has been accepted to encourage students for Short-listing will be done in 2 rounds, namely, the Qualification criteria and Selection criteria. </p>
+      The Financial Assistance is provided to Full-Time PhD students for attending international conferences, where the submitted abstract/paper should be accepted for oral presentation. Short-listing will be done in 2 rounds: Qualification criteria and Selection criteria. </p>
     <br>
 
     <p>
@@ -213,11 +213,11 @@
     </p>
     <ul>
       <li>
-        Should not have received such type of prior travel support from Institutefor international conference during their stay at IIT(ISM), Dhanbad. </li>
+        Should not have received such type of prior travel support from Institute for international conference during their stay at IIT(ISM), Dhanbad. </li>
       <li>
         Should have spent ≥3 years in the department. </li>
       <li>
-        One published / accepted research paper in SCI/SCIE/SSCI/AHCI/ABDC/MCI/SCOPUS indexed Journals which should form a substantive part of thesis.
+        One published / accepted research paper in SCI/SCIE/SSCI/AHCI/ABDC/MCI/SCOPUS indexed Journals, which should form a substantive part of thesis.
       </li>
     </ul>
 
@@ -256,12 +256,12 @@
         </h2>
         <ul>
           <li>
-            Rs.50,000 for attending conference in North America, Australia, South America, New Zealand</li>
+            Rs. 50,000 for attending conference in North America, Australia, South America, New Zealand</li>
           <li>
             Rs. 35,000 for attending conference in Europe, Far-East Asia, Japan, China, Hong Kong, Taiwan, Korea, Indonesia, Africa</li>
           <li>Rs. 20,000 for attending conference in Neighbouring Countries, Sri Lanka, Nepal, Bangladesh, Burma, Pakistan, Gulf Countries, Singapore, Malaysia, Thailand, Maldives</li>
           <li>
-            Support for other countries will be decided as the case-to-case basis.
+            Support for other countries will be decided as case-to-case basis.
           </li>
         </ul>
       </div>

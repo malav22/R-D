@@ -203,11 +203,11 @@
   <div class="main-container">
     <h1>Financial support to Bachelor and Master’s Students for attending International Conference IIT(ISM) Dhanbad</h1>
     <p>
-      The Financial Assistance is proposed to be provided to Full Time Bachelor and Master’sstudents pursing their study at IIT(ISM) main campus for attending international conferences where oral presentation of paper has been accepted to encourage students for an effective exposure to foreign countries. Applications will be received any time during the year and it will be scrutinized every quarterly i.e., 1st week of April, July, October and January. The hardcopy of the application should be sent to the Office of Dean (Research and Development) and also through email to <a href="mailto:adean_sr@iitism.ac.in">adean_sr@iitism.ac.in</a>.
+      The Financial Assistance is provided to Full Time Bachelor and Master’s students pursing their study at IIT(ISM) Dhanbad for attending international conferences, where the paper should be accepted for oral presentation. The main objective is to encourage students for an effective exposure to foreign countries. Applications will be received any time during the year and it will be scrutinized every quarterly i.e., 1<sup>st</sup> week of April, July, October and January. The hardcopy of the application should be sent to the Office of Dean (Research and Development) and also through email to <a href="mailto:adsr@iitism.ac.in">adsr@iitism.ac.in</a>.
     </p>
     <br>
     <p>
-      Short-listing will be done in 2 rounds, namely, the Qualification criteria and Selection criteria.
+      Short-listing will be done in 2 rounds: Qualification criteria and Selection criteria.
     </p>
     <p>
       <b>
@@ -247,12 +247,12 @@
       </h2>
       <ul>
         <li>
-          Rs.50,000 for attending conference in North America, Australia, South America, New Zealand</li>
+          Rs. 50,000 for attending conference in North America, Australia, South America, New Zealand</li>
         <li>
           Rs. 35,000 for attending conference in Europe, Far-East Asia, Japan, China, Hong Kong, Taiwan, Korea, Indonesia, Africa</li>
         <li>Rs. 20,000 for attending conference in Neighbouring Countries, Sri Lanka, Nepal, Bangladesh, Burma, Pakistan, Gulf Countries, Singapore, Malaysia, Thailand, Maldives</li>
         <li>
-          Support for other countries will be decided as the case-to-case basis.
+          Support for other countries will be decided as case-to-case basis.
         </li>
       </ul>
       </div>

@@ -2,11 +2,9 @@
 <html>
 
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <link rel="stylesheet" type="text/css" href="./css-new/index.css" />
     <link rel="stylesheet" type="text/css" href="./css-new/carousel.css" />
-    <link rel="stylesheet" type="text/css" href="./css-new/dean_office.css" />
-
 
     <title>IIT(ISM) Dhanbad | Research and Development</title>
     <link rel="icon" type="image/x-icon" href="images/logo.png">
@@ -71,8 +69,8 @@
 
         .home-admin-button button {
             /* width: 20%; */
-            padding: 2px;
-            margin: 2px;
+            padding: 0 2px;
+            /* margin: 2px; */
         }
 
         .blink_me {
@@ -192,61 +190,58 @@
                 height: 50px;
             }
         }
+
+        .a a {
+            text-decoration: none;
+            color: #a52a2a;
+        }
+
+        .a a:hover {
+            text-decoration: underline;
+            opacity: 75%;
+        }
     </style>
 
 </head>
+<!-- for loader add myfunction() for onload on body and ad id=myDiv to class main-content -->
 
 <body>
-<?php
-  require("header.php");
-  ?>
-
-
-    <div class="row-res">
-        <div class="column-res" style="text-align: center;">
-            <img src="images/chart.png" class="image-res">
-        </div>
-        <div class="column-res container-ver">
-            <div class="vertical-center">
-                <h2>Office of Dean (Research and Development)</h2>
-                <p style="text-align: justify;">The Office of the Dean (Research and Development) drives Strategic planning and provide guidance
-                across academic and research programs, fostering new and interdisciplinary research initiatives
-                and collaborations. Represents institute for external R&D funding agencies.
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="row-res" style="width:100%;">
-    <div class="list-res">
-                <h2>Our major role is to:</h2>
-                <ul>
-                    <li><p>
-                    Interlink Research and Industries with government policies such as: Make in India, Clean India, Aatma Nirbhar Bharat, Smart City initiatives and so on.
-                    </p></li>
-                    <li><p>
-                    Real time progress monitoring of Sponsored Projects & consultancies.
-                    </p></li>
-                    <li><p>
-                    Establishment of Industry Sponsored CoEs.
-                    </p></li>
-                    <li><p>
-                    Development of State-of-the-Art Research Infrastructure.
-                    </p></li>
-                    <li><p>
-                    Develop key research areas to establish the R&D strategy.
-                    </p></li>
-                    <li><p>
-                    Build strong Industry connections to establish Industry-Academia collaborations.
-                    </p></li>
-                </ul>
-                <p>
-                </p>
-            </div>
-    </div>
+    <!-- <div id="loader"></div> -->
 
     <?php
-  require("footer.php");
-  ?>
+    require("header.php");
+    ?>
+
+    <div class="main-content animate-bottom">
+        <div class="row">
+            <br>
+            <div class="middle-box3" style="width:70vw;height:80vh;padding:0% 20%;">
+                <br>
+                <br>
+                <h1>Sponsored R&D Projects</h1>
+                <br>
+                <br>
+                <!-- <br> -->
+                <div class="a">
+
+                    <br><a href="files/2022-2023_ R&D_Projects.pdf">Sponsored R&D Projects 2022-23</a><br>
+                    <br><a href="files/2021-2022_ R&D_Projects.pdf">Sponsored R&D Projects 2021-22</a><br>
+                    <br><a href="files/2020-2021_ R&D_Projects.pdf">Sponsored R&D Projects 2020-21</a><br>
+                    <br><a href="files/2019-2020_ R&D_Projects.pdf">Sponsored R&D Projects 2019-20</a><br>
+                    <br><a href="files/2018-2019_ R&D_Projects.pdf">Sponsored R&D Projects 2018-19</a><br>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <?php
+    require("footer.php");
+    ?>
+
+    <script type="text/javascript" src="js/carousel.js"></script>
 </body>
 
 </html>

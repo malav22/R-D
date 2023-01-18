@@ -202,7 +202,7 @@
 
     <div class="main-container">
         <h1>Contigency Guidelines</h1>
-        <p>The Board of Governors of the Institute in its 12th meeting held on 20th December 2019 has approved the Cumulative Contingency effective from April 1, 2020. The disbursement of the Contingency for PhD/M.Tech./IPDFs will be as per following table:</p>
+        <p>The Board of Governors of the Institute in its 12<sup>th</sup> meeting held on 20<sup>th</sup> December 2019 has approved the Cumulative Contingency effective from April 1, 2020. The disbursement of the Contingency for PhD/M.Tech./IPDFs will be as per following table:</p>
         <table id="customers">
             <tr>
                 <th>Serial No.</th>
@@ -321,7 +321,7 @@
                 The contingency grant of the M.Tech./PhD Scholars/ IPDFs would be Cumulative in nature for the complete tenure.
             </li>
             <li>
-                Complete Tenure for M.Tech. students is the date of last examination and for PhD Scholars it is the five years or date of Pre-Submission whichever is earlier.
+                Complete Tenure for M.Tech. students is the date of last examination and for PhD Scholars, it is the five years or date of Pre-Submission, whichever is earlier.
             </li>
             <li>
                 There is no restriction on number of Conferences to be attended but the expenditure has to be within the accumulated contingency.
@@ -342,7 +342,7 @@
 
         </ul>
         <p>
-            Veracity of the claim to be certified by the M.Tech./PhD Supervisors and Mentors of IPDFs. Supervisors/Mentors to certify that the claim has been made for the research related work.
+            Veracity of the claim to be certified by the M.Tech./PhD Supervisors and Mentors of IPDFs. Supervisors/Mentors have to certify that the claim has been made for the research related work.
         </p>
         <p>
             Allocated contingency amount per annum is as follows:
