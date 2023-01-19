@@ -412,7 +412,22 @@
         <p class="title">FIC, Advanced Polymer Chromatography</p>
         <p>Tel No: +91-326-2235769</p>
         <p>Email: apc_crf@iitism.ac.in , sagarpal@iitism.ac.in</p>
-      </div><br>
+      </div>
+      <div class="faculty-card">
+        <img src="../images/people/Prof Pranab Das- FIC-XRF.jpg"/>
+        <h4>Prof. Pranab Das</h4>
+        <p class="title">FIC-XRF</p>
+      </div>
+      <div class="faculty-card">
+        <img src="../images/people/Dr. Sourav Das-Technical Officer.jpg" />
+        <h4>Dr. Sourav Das</h4>
+        <p class="title">Technical Officer</p>
+      </div>
+      <div class="faculty-card">
+        <img src="../images/people/Sanjeev Kumar - Technical Officer.jpg" />
+        <h4>Sanjeev Kumar</h4>
+        <p class="title">Technical Officer</p>
+      </div>
       <div class="faculty-card">
         <img src="../images/Our Team/Tapas_Sarkar_jpeg.jpg" />
         <h4>Mr. Tapas Sarkar</h4>
@@ -433,23 +448,31 @@
         <h4>Mr. Balla Mohana Veera Durg Naresh</h4>
         <p class="title">Junior Technical Superintendent</p>
       </div>
+      <div class="faculty-card">
+        <img src="../images/people/Banty Saw-Junior Technician.jpg" />
+        <h4>Banty Saw</h4>
+        <p class="title">Junior Technician</p>
+      </div>
+      <div class="faculty-card">
+        <img src="../images/people/Nikita Kumari-Junior Technician.jpeg.jpg" />
+        <h4>Nikita Kumari</h4>
+        <p class="title">Junior Technician</p>
+      </div>
+      <div class="faculty-card">
+        <img src="../images/people/Satyajit Kumbhakar-Junior Technician.jpg" />
+        <h4>Satyajit Kumbhakar</h4>
+        <p class="title">Junior Technician</p>
+      </div>
+      <div class="faculty-card">
+        <img src="../images/people/Shashikant Kumar-Junior Technician.jpg" />
+        <h4>Shashikant Kumar</h4>
+        <p class="title">Junior Technician</p>
+      </div>
 
     </div>
   </div>
 
-  <footer>
-    <div class="footer-content">
-      <p>Contact Us</p>
-      <p>Central Research Facility, IIT(ISM) Dhanbad</p>
-      <p>Email : crf@iitism.ac.in</p>
-      <p>Phone : +91-326-2235401</p>
-    </div>
-    <div class="footer-bottom">
-      <p>copyright &copy; IIT(ISM) Dhanbad</p>
-      <p>Conceptualized by Prof. Sagar Pal, Prof. Ravi Kumar Gangwar, and Prof. Ejaz Ahmad. Designed and Developed by <a target="_blank" style="text-decoration:none;color:#df534c;" href="https://www.linkedin.com/in/malav-thakkar-011517200/">Malav Thakkar</a></p>
-    </div>
-
-  </footer>
+  <?php include 'footer.php'; ?>
 </body>
 
 </html>

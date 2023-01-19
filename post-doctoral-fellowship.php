@@ -16,6 +16,7 @@
       list-style-type: circle;
       list-style-position: outside;
       padding-left: 20px;
+      font-size: 15px;
       /* margin-left: 20px; */
       ;
     }

@@ -379,7 +379,7 @@
     </div>
 
     <br>
-    <?php include '../footer.php';?>
+    <?php include 'footer.php';?>
 
     <script>
         function myFunction() {

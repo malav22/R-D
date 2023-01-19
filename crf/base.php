@@ -213,7 +213,7 @@ $analysisUrl = "https://docs.google.com/spreadsheets/d/1ogXe8mF8fVWTBvVzZx-7J-0I
 
 
 <?php
-require('../footer.php');
+require('footer.php');
 ?>
 
         

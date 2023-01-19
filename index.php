@@ -232,7 +232,7 @@
                     <li><a href="/project-guideline.php#pg10">Payments</a></li>
                     <li><a href="/project-guideline.php#pg11">Recruitment in Projects</a></li>
                     <!-- <li><a href="/project-guideline.php#pg12">Facilities to Project Employees</a></li> -->
-                    <li><a href="/project-guideline.php#pg13">Travel within India/Abroad for Project Work</a></li>
+                    <li><a href="/project-guideline.php#pg13">Travel for Project Work</a></li>
                     <li><a href="/project-guideline.php#pg14">Analysis/Testing</a></li>
                     <li><a href="/project-guideline.php#pg15">Request for SE/UC</a></li>
                     <li><a href="/project-guideline.php#pg16">Purchase Manual</a></li>
@@ -241,7 +241,7 @@
                     <li><a href="/project-guideline.php#pg19">Financial Power of PI/CI/PC</a></li>
                     <li><a href="/project-guideline.php#pg20">When PI leaves Institute</a></li>
                     <li><a href="/project-guideline.php#pg21">Transfer of Project</a></li>
-
+                    <li><a href="files/No Dues Certificate.pdf">No Dues Certificate for Project Staff / IPDF / NPDF</a></li>
 
 
                 </ul>
@@ -263,7 +263,9 @@
                     <h4 style="color:#A52A2A;">Administration</h4>
                     <div class="home-admin-button">
                         <button class="button-10" onclick="func1()">Dean(R&D)</button>
-                        <button class="button-10" onclick="func2()">Asso. Deans</button>
+                        <button class="button-10" onclick="func21()">Asso. Dean - SRIC</button>
+
+                        <button class="button-10" onclick="func2()">Asso. Dean - IC</button>
                         <button class="button-10" onclick="func3()">Coordinator</button>
                         <button class="button-10" onclick="func4()">Assistant Registrar</button>
                     </div>
@@ -464,19 +466,54 @@ research infrastructure to develop technologies pertinent to your organization.
         `;
         var c2 = `
         <div style="text-align: center;font-size:12px;class="admin-box"">
-            <table style='text-align:left;text-overflow:clip;'>
-            <tr>
-            <th style="width:50%;padding:20px;">
-                <img src='images/ravi.jpg' style='box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;border-radius:5px;'>
-            </th>
-                    <th style="width:50%;padding:20px;">
+            <table style='text-align:left;'>
+                <tr>
+                    <td style="width:35%;padding-left:10px;">
                         <img src='images/sagarpal.jpg' style='box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;border-radius:5px;'>
-                    </th>
+                    </td>
+                    <td style="width:65%;">
+                        <p style="font-size:15px;color:#A52A2A">Prof. Sagar Pal</p>
+                        <p style="line-height:16px;">Associate Dean - RI (R&D)</p>
+                        <p style="line-height:16px;">Professor, Dept. of Chemistry & Chemical Biology</p>
+                        <br>
+                        <p style="line-height:16px;">Indian Institute of Technology (ISM) Dhanbad</p>
+                        <p style="line-height:16px;">Tel : +91-326-2235203</p>
+                        <p style="line-height:16px;">E-mail : drnd@iitism.ac.in</p>
+                        <p style="line-height:16px;">Web : https://people.itism.ac.in/ ~ sagarpal/</p>
+                    </td>
                 </tr>
                 <tr>
-                    <td style="width:50%;padding:10px;">
+                <td>
+                </td>
+                <td style="width:60%;">
+                        <br>
+                        <p style="font-size:15px;color:#A52A2A">प्रो० सागर पाल</p>
+                        <p style="line-height:16px;">सह-अधिष्ठाता - आर. आई. (अनु.एवं वि.)</p>
+                        <p style="line-height:16px;">प्राध्यापक, रसायन एवं रसायनिक जीव विज्ञान विभाग</p>
+                        <br>
+                        <p style="line-height:16px;">भारतीय प्रौद्योगिकी संस्थान (भारतीय खनि विद्यापीठ) धनबाद</p>
+                        
+                        <p style="line-height:16px;">दूरभाष : +91-326-2235203</p>
+                        <p style="line-height:16px;">ईमेल : drnd@iitism.ac.in</p>
+                        <p style="line-height:16px;">वेब : https://people.itism.ac.in/ ~ sagarpal/</p>
+                    </td>
+                </tr>
+            </table>
+            <br>
+           
+            <br>
+        </div>
+        `;
+        var c21 = `
+        <div style="text-align: center;font-size:12px;class="admin-box"">
+            <table style='text-align:left;'>
+                <tr>
+                    <td style="width:35%;padding-left:10px;">
+                        <img src='images/ravi.jpg' style='box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;border-radius:5px;'>
+                    </td>
+                    <td style="width:65%;">
                         <p style="font-size:15px;color:#A52A2A">Prof. Ravi Kumar Gangwar</p>
-                        <p style="line-height:16px;">Associate Dean, (R&D-SRIC)</p>
+                        <p style="line-height:16px;">Associate Dean - SRIC (R&D)</p>
                         <p style="line-height:16px;">Associate Professor, Deptt. of Electronics Engineering</p>
                         <br>
                         <p style="line-height:16px;">Indian Institute of Technology (ISM) Dhanbad</p>
@@ -484,46 +521,26 @@ research infrastructure to develop technologies pertinent to your organization.
                         <p style="line-height:16px;">E-mail : adsr@iitism.ac.in</p>
                         <p style="line-height:16px;">Web : https://iitism.irins.org/profile/97523/</p>
                     </td>
-                    <td style="width:50%;padding:10px;">
-                    <p style="font-size:15px;color:#A52A2A">Prof. Sagar Pal</p>
-                    <p style="line-height:16px;">Associate Dean, (R&D-RI)</p>
-                    <p style="line-height:16px;">Professor, Dept. of Chemistry & Chemical Biology</p>
-                    <br>
-                    <p style="line-height:16px;">Indian Institute of Technology (ISM) Dhanbad</p>
-                    <p style="line-height:16px;">Tel : +91-326-2235203/5253/5217</p>
-                    <p style="line-height:16px;">E-mail : drnd@iitism.ac.in</p>
-                    <p style="line-height:16px;">Web : https://people.itism.ac.in/ ~ sagarpal/</p>
-                    </td>
-                    </tr>
+                </tr>
                 <tr>
-                <td style="width:50%;padding:10px;">
-                      
+                <td>
+                </td>
+                <td style="width:60%;">
+                        <br>
                         <p style="font-size:15px;color:#A52A2A">प्रो० रवि कुमार गंगवार</p>
-                        <p style="line-height:16px;">सह-अधिष्ठाता (अनु.एवं वि. - एस. आर. आई.सी.) </p>
+                        <p style="line-height:16px;">सह-अधिष्ठाता - एस. आर. आई.सी. (अनु.एवं वि.)</p>
                         <p style="line-height:16px;">सह प्राध्यापक, इलेक्ट्रॉनिक्स अभियांत्रिकी विभाग</p>
                         <br>
                         <p style="line-height:16px;">भारतीय प्रौद्योगिकी संस्थान (भारतीय खनि विद्यापीठ) धनबाद</p>
-                        <p style="line-height:16px;">दूरभाष : +91-326-2235203 / 5217 | 5903 </p>
+                        
+                        <p style="line-height:16px;">दूरभाष : +91-326-2235203 / 5217</p>
                         <p style="line-height:16px;">ईमेल : adsr@iitism.ac.in</p>
                         <p style="line-height:16px;">वेब : https://iitism.irins.org/profile/97523 /</p>
                     </td>
-                <td style="width:50%;padding:10px;">
-                        
-                        <p style="font-size:15px;color:#A52A2A">प्रो० सागर पाल</p>
-                        <p style="line-height:16px;">सह-अधिष्ठाता (अनु.एवं वि. - आर. आई.) </p>
-                        <p style="line-height:16px;">प्राध्यापक, रसायन एवं रसायनिक जीव विज्ञान विभाग</p>
-                        <br>
-                        <p style="line-height:16px;">भारतीय प्रौद्योगिकी संस्थान (भारतीय खनि विद्यापीठ) धनबाद</p>
-                        
-                        <p style="line-height:16px;">दूरभाष : +91-326-2235203 / 5769</p>
-                        <p style="line-height:16px;">ईमेल : drnd@iitism.ac.in</p>
-                        <p style="line-height:16px;">वेब : https://people.itism.ac.in/ ~ sagarpal/</p>
-                    </td>
-                    
                 </tr>
             </table>
             <br>
-            
+           
             <br>
         </div>
         `;
@@ -536,7 +553,7 @@ research infrastructure to develop technologies pertinent to your organization.
                     </td>
                     <td style="width:65%;">
                         <p style="font-size:15px;color:#A52A2A">Prof. Ejaz Ahmad</p>
-                        <p style="line-height:16px;">Coordinator (R&D-SRIC)</p>
+                        <p style="line-height:16px;">Coordinator - SRIC (R&D)</p>
                         <p style="line-height:16px;">Assistant Professor, Deptt. of Chemical Engineering</p>
                         <br>
                         <p style="line-height:16px;">Indian Institute of Technology (ISM) Dhanbad</p>
@@ -551,7 +568,7 @@ research infrastructure to develop technologies pertinent to your organization.
                 <td style="width:60%;">
                         <br>
                         <p style="font-size:15px;color:#A52A2A">प्रो० ईजाज़ अहमद</p>
-                        <p style="line-height:16px;">समन्वयक (अनु.एवं वि. - एस. आर. आई.सी.)</p>
+                        <p style="line-height:16px;">समन्वयक - एस. आर. आई.सी. (अनु.एवं वि.)</p>
                         <p style="line-height:16px;">सहायक प्राध्यापक, रासायनिक अभियांत्रिकी विभाग</p>
                         <br>
                         <p style="line-height:16px;">भारतीय प्रौद्योगिकी संस्थान (भारतीय खनि विद्यापीठ) धनबाद</p>
@@ -615,6 +632,10 @@ research infrastructure to develop technologies pertinent to your organization.
             x.innerHTML = c1;
         }
 
+        function func21() {
+            var x = document.getElementById("myDIV");
+            x.innerHTML = c21;
+        }
         function func2() {
             var x = document.getElementById("myDIV");
             x.innerHTML = c2;

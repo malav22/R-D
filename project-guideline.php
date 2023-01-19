@@ -15,6 +15,8 @@
             list-style-type: circle;
             list-style-position: outside;
             padding-left: 20px;
+            font-size: 15px;
+            line-height: 20px;
             /* margin-left: 20px; */
             ;
         }
@@ -269,7 +271,7 @@
             </ul>
             <br>
             <p>This certificate will be valid  for a financial year only. </p>
-            <p>A mail will be circulated from the office of the Dean (R&D) by 20th Feb of every year , and data received from the PIs/CIs will be used for filing the application for TDS exemption certificate under Section 197 of IT Act. All PIs/CIs are requested to  send the response by 28/29th Feb of the current financial year for getting exemption in the ensuing financial year.</p>
+            <p>Please find the notification in this regard. <a href="files/TDS.pdf">Notification</a></p>
         </div>
 
         <div class="card" id="pg10">
@@ -337,15 +339,15 @@
             </ul>
         </div> -->
         <div class="card" id="pg13">
-            <h2>Travel within India/Abroad for Carrying Out Project Work</h2>
+            <h2>Travel for Project Work</h2>
             <p>Dean (R&D) endorses the application for travel support. The possible source of travel support is:</p>
             <ul>
 
-                <li>The PI or a regular staff of the institute can go for Project Leave up to a maximum of 15 days during a year without hampering the classes. Before proceeding for leave she/he needs to get the approval from the Director through MIS.</li>
+                <li>The PI or a regular staff of the institute can go for Project Leave up to a maximum of 15 days during a year without hampering the classes. Before proceeding for leave she/he needs to get the approval from the Competent Authority through MIS.</li>
                 <!-- <li> <a href="./files/Tour-cum-leaveapplication.docx">Tour-cum-Leave Application form</a> </li> -->
-                <li>The Project Employees can proceed for field trips etc. by filling the </li>
-                <li><a href="./files/Tour-cum-leave application form_Project_Employee.pdf">Tour Approval Form</a></li>
-                <li>And getting it approved from the Dean (R&D)</li>
+                <li>The Project Employees can proceed for field trips etc. by filling the
+                <a href="./files/Tour-cum-leave application form_Project_Employee.pdf">Tour Approval Form</a>
+                and getting it approved from the Dean (R&D)</li>
                 <li>It is advisable to plan such trips well in advance and without disturbing much of classes.</li>
                 <li>On return, the claim for travelling and dearness allowance should be made through</li>
                 <li><a href="./files/TA Claim Form.pdf">TA Claim Form</a> </li>
@@ -363,15 +365,18 @@
         </div>
         <div class="card" id="pg16">
             <h2>Purchase Manual</h2>
-            <p>Purchase procedure in a nutshell :
-                <a href="files/purchase-manual.pdf">Manual</a>
+            <p>Institute Purchase Manual to be followed for the purchase. Purchase manual and other related information can be found at : <a href="https://www.iitism.ac.in/index.php/Tendernew">Link</a></p>
+            <p>
+                <ul>
+                    <li><a href="files/purchase-manual.pdf">Purchase procedure in a nutshell</a></li>
+                </ul>
             </p>
         </div>
         <div class="card" id="pg17">
             <h2>Advance for Carrying Out Project</h2>
             <p>Staff advance for carrying Project can be drawn by the PI as per institute norm by filling the
 
-                <a href="./files/STAFF ADVANCE FORM_Project Acts.docx">Staff Advance Form</a>.
+                <a href="./files/123-1.pdf">Staff Advance Form</a>.
             </p>
             <p>Project Employees are not entitled for Advance. PIs can take advance on behalf of the Project Employees.</p>
             <p>Advance once taken, needs to be settled within 30 days of return, else interest would be charged as per GoI norms on the advance drawn.</p>

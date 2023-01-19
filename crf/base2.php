@@ -238,7 +238,7 @@ header("Access-Control-Allow-Origin: *");
             <i class="fas fa-bars"></i>
         </label>
         <ul>
-            <li><a href="/">R&D Home</a></li>
+            <li><a href="index.php">CRF Home</a></li>
             <li><a href="https://mis.iitism.ac.in/">MIS(Intra)</a></li>
             <li>
                 <div class="dropdown2">
@@ -382,7 +382,7 @@ foreach($entries as $entry){
 
     <br>
 
-    <?php include '../footer.php'; ?>
+    <?php include 'footer.php'; ?>
     <script>
         function myFunction() {
             myVar = setTimeout(showPage, 3000);

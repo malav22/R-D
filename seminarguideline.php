@@ -15,6 +15,7 @@
       list-style-type: circle;
       list-style-position: outside;
       padding-left: 20px;
+      font-size: 15px;
       /* margin-left: 20px; */
       ;
     }
@@ -324,7 +325,7 @@
 
     <ul>
       <li>
-        60 % to Department Developmental Fund (If more than one department is involved then the same would be distributed between them).
+        60 % to Department Developmental Fund (If more than one department is involved then the same would be distributed between them.
       </li>
       <li>
         40% to Professional Development Fund of organizers.
